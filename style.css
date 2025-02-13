@@ -3,7 +3,7 @@
     padding: 0px;
 }
 body{
-    background-color: white;
+    background-color: rgb(18, 17, 17);
     
    
 }
@@ -70,8 +70,9 @@ nav ul li{
   
 }
 .icons{
-   margin-top: 34px;
-  font-size: 15px;
+    margin: 20px;
+ 
+  font-size: 25px;
 }
 .icons i{
    cursor: pointer;
@@ -113,6 +114,6 @@ margin: 0 10px;
     height: 10px;
     width: 50px;
   opacity: 0;
-    transition: opcity 1s ease-in;
+    transition: opcity 0.4s ease-in;
 }
 
